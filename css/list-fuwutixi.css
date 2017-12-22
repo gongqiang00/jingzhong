@@ -1,0 +1,44 @@
+/*banner*/
+.banner{width: 100%;height: 665px;overflow: hidden;}
+.banner img{width: 100%;height: 665px;  position: absolute;}
+.ban-zhe{ width: 100%;height: 665px ;background: rgba(0,0,0,0.8);position: absolute;}
+.banner .ban-wen{ position: relative;top: 315px;;width: 965px;height: 130px;}
+.banner .ban-wen h1{width: 100%;height: 50px;line-height: 50px;font-size: 50px;text-align: center;color: white;}
+.banner .ban-wen h2{margin-top: 22px;;width: 100%;height: 22px;line-height: 22px;font-size: 22px;text-align: center;text-transform: uppercase;color: #CD0102;}
+.banner .ban-wen h3{margin-top: 15px;width: 100%;height: 18px;line-height: 18px;font-size: 18px;text-align: center;color: white;}
+/*banner*/
+
+/*中心内容*/
+.cont{height: 870px;}
+.cont .cont-le{float: left;width: 260px;height: 295px;}
+.cont .cont-le .conle{width: 100%;height: 110px;}
+.cont .cont-le .conle h3{display: block;margin: 0 0 0 10px;;padding-top: 50px;width: 100%;height: 25px;line-height: 25px;font-size: 25px;font-weight: bold;color: #121212;}
+.cont .cont-le .conle h4{margin: 30px 0 0 10px;text-transform: uppercase;color: #5D5D5D;font-size: 10px;}
+.con-x{width: 100%;height: 185px;padding-top: 10px}
+.con-x .cur{background: #CE0000;color: white;}
+.con-x a{display: block;width: 100%;height: 42px;background: #D2D2D2;text-align: center;line-height: 42px;font-size: 15px;color: #2A2A2A;}
+.con-x a:hover{background:#CE0000;color: white; }
+.con-x a:nth-child(2){margin-top: 20px}
+.con-x a:nth-child(3){margin-top: 20px}
+.cont .cont-le .conle h3 span{color: #CE0000;font-size: 25px;font-weight: bold;}
+.cont .cont-ri{float: left;width: 940px;height: 790px;}
+.cont .cont-ri .ri-nav{padding-left: 60px;padding-top: 60px;;width: 100%;height: 110px;}
+.cont .cont-ri .ri-nav .rinav-li{float: left;width: 250px;height: 35px;}
+.rina{width: 880px;  height: 50px;border-bottom: 1px solid #B0B0B0;}
+.cont .cont-ri .ri-nav .rinav-li p{float: left;width: 100%;height: 35px;line-height: 32px;font-size: 25px;color: #CF0200}
+.cont .cont-ri .ri-nav .rinav-li p span{float: left;margin: 0 15px 0 0;;display: block;width: 5px;height: 35px;background:#CF0200; }
+.cont .cont-ri .ri-nav .rinav-li p i{font-size: 14px;text-transform: uppercase;color: #535353;}
+.cont .cont-ri .ri-nav .rinav-ri{float: right;width: 295px;height: 35px;}
+.cont .cont-ri .ri-nav .rinav-ri ul li{float: left;}
+.cont .cont-ri .ri-nav .rinav-ri ul li a{color: #535353;}
+.cont .cont-ri .ri-nav .rinav-ri ul li a:hover{ color: #CF0200;}
+.cont .cont-ri .ri-nav .rinav-ri ul li .cur{color: #CF0200;}
+.ri-xb{padding-left: 70px;padding-top: 40px; ;width: 100%;height: 680px;}
+.ri-xb .ri-p{width: 870px;height: 80px;}
+.ri-xb .ri-p p{text-indent: 4em;font-size: 14px;width: 870px;height: 80px;line-height: 40px;color: #CC0202;border-bottom: 1px dotted #858585;}
+.ri-ul{padding-top: 45px;padding-right: 20px;;width: 870px;height: 560px;}
+.ri-ul ul li{;height: 60px;}
+.ri-ul ul li span{float: right;}
+.ri-ul ul li:hover{color: #CD0200;}
+.ri-ul ul li:hover .ri-ul ul li b{background:#CD0200; }
+.ri-ul ul li b{float: left;margin: 10px 20px 0 5px;;display: block;width:10px;height: 10px;border-radius: 50%;background: black;}

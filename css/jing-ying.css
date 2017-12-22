@@ -1,0 +1,6 @@
+.ri-xb ul{width: 100%;background: blue;}
+.cont{ height: 1500px;}
+.ri-xb ul li{float: left;width: 430px;height: 305px;margin: 0 0 0 5px;}
+.ri-xb .img{ width: 100%;height: 240px;overflow: hidden;}
+.ri-xb .img img{width: 100%;height: 240px;}
+.ri-xb p{width: 100%;height: 70px;line-height: 60px;font-weight: bold;text-align: center;font-size: 16px;}

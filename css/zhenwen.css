@@ -1,0 +1,8 @@
+.news-bt{width: 100%;height: 70px;;border-bottom: 1px dashed #B0B0B0;}
+.news-bt h3{ width: 100%;height: 20px;line-height: 20px;font-size: 20px;color: #CE0002;text-align: center;}
+.news-bt p{margin-top: 15px;width: 100%;height: 14px;line-height: 14px;text-align: center;color: #818181;}
+.news{width: 100%;}
+.news .new-pic{width: 100%;height: 395px;}
+.news .new-pic img{margin: 33px 0 0 25px;;width: 822px;height: 362px;}
+.news p{margin-top: 45px;font-size: 14px;text-indent: 2em;}
+.news h4{text-indent: 2em;}

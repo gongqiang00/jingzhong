@@ -1,0 +1,16 @@
+.ri-xb{padding-left: 60px; padding-top: 15px;  width: 100%;  height: 680px;}
+.qiey{ width: 870px;height: 45px;}
+.qiey a{display: block;float: left;margin: 0 0 0 3px;;width: 170px;height: 43px;background: #D2D2D2;text-align: center;line-height: 43px;font-size: 15px;color: #313131;}
+.qiey a:hover{background: #CE0000;color: white;}
+.qiey .cur{background: #CE0000;color: white;}
+.ri-xb ul{margin-top: 30px;}
+.ri-xb ul li{margin: 0 0 25px 0;;width: 100%;height: 200px;}
+.ul-le{float: left;width:370px;height: 200px;overflow: hidden; }
+.ul-le img{width:370px;height: 200px; }
+.ul-ri{float: left;width: 505px;height: 200px; position: relative;}
+.ul-ri h3{ position: absolute;top: 43px; left: 45px;;width: 100%;height: 18px;font-size: 18px;line-height: 18px;}
+.ul-ri p{position: absolute;top: 80px;
+    left: 45px;;width: 100%;height: 40px;font-size: 14px;color: #818181;}
+.xxi{width: 70px;height: 20px;border: 1px solid white;  position: absolute;  top: 70%;
+    left: 9%;  }
+.xxi a{display: block;width: 70px;height: 20px;text-align: center;color: white;line-height: 19px;font-size: 12px;}
